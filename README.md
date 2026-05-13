@@ -15,10 +15,5 @@ Hi, I'm Vardaan<br><br>I enjoy creating cybersecurity solutions, AI-powered appl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=v-161&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=v-161&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=v-161&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
